@@ -1,0 +1,15 @@
+.toggle-btn {
+  color: #fff;
+  background-color: #e60278;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+.toggle-btn:hover {
+  cursor: pointer;
+  background-color: #ff007a;
+}
+.toggle-btn--hidden {
+  opacity: 0.25;
+}

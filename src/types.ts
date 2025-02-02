@@ -1,0 +1,1 @@
+export type HiddenJobs = string[] | []
